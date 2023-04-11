@@ -1,0 +1,5 @@
+We have two datasets in the form of two inputs. In the first input data, there are four columns such as S.No, Name, Team Name and User Id.
+In the second input data, there are five columns such as S.No, Name, User Id, Total statements and Total reasons.
+So, we have to perform two tasks as output.
+The first task is to get the rank of each team on the basis of the sum of the average of statements and reasons.
+The second task is to get the rank of every individual people on the basis of a total number of statements and reasons.
